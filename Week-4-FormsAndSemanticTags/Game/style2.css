@@ -1,0 +1,43 @@
+body {
+    background-color: black;
+    color: purple;
+    font: "ariel";
+    text-align: center;
+}
+
+img {
+ center 
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+
+hr {
+    border: none;
+    border-top: 1px dashed purple;
+  }
+
+h3{
+    color: rgb(183, 90, 3);
+}
+
+.button {
+    background-color: black;
+    -webkit-border-radius: 60px;
+    border-radius: 60px;
+    border: none;
+    color: red;
+    cursor: pointer;
+    display: inline-block;
+    font-family: sans-serif;
+    font-size: 20px;
+    padding: 5px 15px;
+    text-align: center;
+    text-decoration: none;
+  }
+
+
+a {
+    color: red;
+} 
