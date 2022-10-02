@@ -9,16 +9,13 @@ body {
     text-align: left;
 }
 
-img {
- center 
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    width: 50%;
+  h1{
+    color: rgb(183, 90, 3)
 }
 
-  h3{
-    color: rgb(183, 90, 3)
+hr {
+    border: none;
+    border-top: 1px dashed purple;
 }
 
 p {

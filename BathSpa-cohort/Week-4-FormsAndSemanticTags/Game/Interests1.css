@@ -1,12 +1,12 @@
 body {
     background-color: black;
     color: purple;
-    font-family: "ariel";
+    font: "ariel";
     text-align: center;
 }
 
 .links {
-    text-align: left;
+text-align: left;
 }
 
 img {
@@ -15,15 +15,22 @@ img {
     margin-left: auto;
     margin-right: auto;
     width: 50%;
+  }
+
+h2{
+    color: rgb(183, 90, 3);
+
 }
 
-  h3{
-    color: rgb(183, 90, 3)
+hr {
+    border: none;
+    border-top: 1px dashed purple;
+  }
+
+h3{
+    color: rgb(183, 90, 3);
 }
 
-p {
-    font-weight: bold;
-}
 a {
-    color: red
-}
+    color: red;
+} 
