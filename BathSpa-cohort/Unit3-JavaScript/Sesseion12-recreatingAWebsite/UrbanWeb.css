@@ -1,0 +1,65 @@
+body {
+    background-image: url("../Sesseion12-recreatingAWebsite/Images/background.png");
+    background-size: contain;
+    background-position: center;
+    width:100%;
+    height:100%;
+}
+
+.logo {
+    margin-top: 50px;
+    margin-left: 40px;
+}
+.nav-link{
+    
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    text-decoration: none;
+    width: 95vw;
+    height: 25px;
+    text-decoration: none;
+    flex-direction: row;
+
+}
+ul{
+    width:700px;
+    margin-bottom: 16px;
+    margin-left: 400px;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    text-decoration: none;
+}
+
+li {
+    
+    margin-left: 30px;
+    margin-right: 20px;
+    justify-content: space-between;
+    text-decoration: none;    
+    text-align: center;
+    list-style: none;
+}
+
+a {
+    
+    margin-bottom: 75px;
+    text-decoration: none;
+    color: black;
+}
+
+h1 {
+    font-weight: bold;
+    color: #11174a;
+}
+
+#image {
+    position: relative;
+    float: right;
+
+}
+
+#links {
+    height: 30px;
+    width: 30px;
+}

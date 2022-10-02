@@ -1,0 +1,82 @@
+body {
+    color:white;
+    background-color: black;
+    background-image: url('../Bootstrap/Images/forest.png');
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+    width:100vw;
+    height:100vw;
+}
+
+
+
+style {
+        
+        background-repeat: no-repeat;
+        background-size: auto;
+      }
+
+.nav-link{
+
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    text-decoration: none;
+    
+    height: 25px;
+    text-decoration: none;
+    flex-direction: row;
+
+}
+ul{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    text-decoration: none;
+    background-color: black;
+    margin-left: 30px;
+}
+
+li {
+    margin-top: 1px;
+    margin-left: 40px;
+    margin-right: 20px;
+    justify-content: space-between;
+    text-decoration: none;    
+    text-align: center;
+    list-style: none;
+}
+
+a {
+    color: white;
+   text-decoration: none;
+}
+
+a:hover {
+    color: #ccba78;
+}
+
+h4 {
+    margin-left: 20px;
+}
+
+table {
+    width: 100%;
+    margin-left: 20px;
+}
+
+th {
+    font-size: larger;
+    text-align: left;
+}
+
+td {
+    font-size: medium;
+    text-align: left;
+}
+
+tr:hover {
+    background-color: #837f7f2b;
+    color: #ccba78;
+}
+
